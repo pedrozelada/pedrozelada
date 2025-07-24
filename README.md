@@ -9,7 +9,7 @@ I'm Pedro Zelada, a student at Brigham Young University-Idaho interested in: com
 
 - I'm currently learning Software Development
 - Ask me about web development
-- 
+
 ## Technologies and Tools
 
 Programming Languages:
